@@ -5,6 +5,5 @@ a=3;
 int main ()
 {
 	if (a == b){
-		printf("It works!");
-	}
-}
+		printf("I am sleepy. :(");
+	}}
